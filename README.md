@@ -2,9 +2,9 @@
 
 My name is Niki Murthy, and I am an undergraduate Junior at the University of Michigan. I am excited about actively exploring how new technologies can improve business outcomes, and I am passionate about leveraging my tech skillset to address real-world business challenges.
 
-**Education:** University of Michigan
-  _Expected Graduation:_ May 2026
-**Hometown:** Boston, MA🌃
+**Education:** University of Michigan  
+  _Expected Graduation:_ May 2026  
+**Hometown:** Boston, MA🌃  
 **Current Status:** Abroad in Copenhagen!🏰🚴🏼‍♀️🤩
 **Hobbies:** Woodworking, Tetris!, Snowboarding, Roadtriping
 
