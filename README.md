@@ -5,7 +5,7 @@ My name is Niki Murthy, and I am an undergraduate Junior at the University of Mi
 **Education:** University of Michigan  
   _Expected Graduation:_ May 2026  
 **Hometown:** Boston, MA🌃  
-**Current Status:** Abroad in Copenhagen!🏰🚴🏼‍♀️🤩
+**Current Status:** Abroad in Copenhagen!🏰🚴🏼‍♀️🤩  
 **Hobbies:** Woodworking, Tetris!, Snowboarding, Roadtriping  
   
 ## Programming  
