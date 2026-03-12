@@ -11,7 +11,7 @@ My name is Niki Murthy, and I am an undergraduate Junior at the University of Mi
 ## Programming  
 **OS:** MacOS Monterey - version 12.2.1  
 **Preferred IDE:** VSCode  
-**Languages:** C++ (3 years), Python (3 years), HTML/CSS/JS (2 years), Java (1 year), LaTeX, R, C, ARMv8  
+**Languages:** C++ (4 years), Java (4 years), Python (3 years), HTML/CSS/JS (2 years), Go (1 year), LaTeX, R, C, ARMv8  
 **Technologies and Frameworks:** R, MongoDB, Mongoose, Node/React.js, Express, Flask, Bootstrap, Figma, Canva  
 **Certifications and Courses:** Certified AWS Cloud Practitioner, Full Stack Web Development Course Certification, Akuna Capital Options 101  
 **Coursework:** Data Structures & Algorithms, Computer Architecture, Computational Algorithms, Discrete Mathematics, Programming & ADTs  
