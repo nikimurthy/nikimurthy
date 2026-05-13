@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Niki Murthy, and I am recent graduate from the University of Michigan with degrees in Business and Computer Science. I am excited about actively exploring how new technologies can improve business outcomes, and I am passionate about leveraging my tech skillset to address real-world business challenges.
+My name is Niki Murthy, and I am recent graduate from the University of Michigan with dual degrees in Business and Computer Science. I am excited about actively exploring how new technologies can improve business outcomes, and I am passionate about leveraging my tech skillset to address real-world business challenges.
 
 **Education:** University of Michigan  
   _Expected Graduation:_ May 2026  
@@ -12,12 +12,12 @@ My name is Niki Murthy, and I am recent graduate from the University of Michigan
 **OS:** MacOS Monterey - version 12.2.1  
 **Preferred IDE:** VSCode  
 **Languages:** C++ (4 years), Java (4 years), Python (3 years), HTML/CSS/JS (2 years), Go (1 year), LaTeX, R, C, ARMv8  
-**Technologies and Frameworks:** R, MongoDB, Mongoose, Node/React.js, Express, Flask, Bootstrap, Figma, Canva  
+**Technologies and Frameworks:** CSS Bootstrap, Figma, Canva, MongoDB, Mongoose, Node/React.js, Express, Flask, R 
 **Certifications and Courses:** Certified AWS Cloud Practitioner, Full Stack Web Development Course Certification, Akuna Capital Options 101  
-**Coursework:** Data Structures & Algorithms, Computer Architecture, Computational Algorithms, Discrete Mathematics, Programming & ADTs  
+**Coursework:** Operating Systems, Distributed Systems, Computational Neural Networks and Artificial Intelligence, Data Structures & Algorithms, Computer Architecture, Discrete Mathematics, Programming & ADTs  
   
 ## Contact Me!  
-**Email:** nikivm@umich.edu  
+**Email:** nikitha.v.murthy@gmail.com
 **LinkedIn:** www.linkedin.com/in/nikimurthy  
 **Phone:** 781-752-7664  
 
