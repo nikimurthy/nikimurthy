@@ -4,8 +4,8 @@ My name is Niki Murthy, and I am recent graduate from the University of Michigan
 
 **Education:** University of Michigan  
 **Graduated:** May 2026  
-**Hometown:** Boston, MA 🌃  
-**Current Status:** Abroad in Copenhagen! 🏰🚴🏼‍♀️🤩  
+**Hometown:** Boston, MA   
+**Current Status:** Building at Revin in NYC! 🌃
 **Hobbies:** Woodworking, Tetris, Snowboarding, Roadtripping  
   
 ## Programming  
