@@ -17,7 +17,7 @@ My name is Niki Murthy, and I am recent graduate from the University of Michigan
 **Coursework:** Operating Systems, Distributed Systems, Computational Neural Networks and Artificial Intelligence, Data Structures & Algorithms, Computer Architecture, Discrete Mathematics, Programming & ADTs  
   
 ## Contact Me!  
-**Email:** nikitha.v.murthy@gmail.com
+**Email:** niki.murth@gmail.com
 **LinkedIn:** www.linkedin.com/in/nikimurthy  
 **Phone:** 781-752-7664  
 
