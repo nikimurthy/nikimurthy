@@ -3,7 +3,7 @@
 My name is Niki Murthy, and I am recent graduate from the University of Michigan with dual degrees in Business and Computer Science. I am excited about actively exploring how new technologies can improve business outcomes, and I am passionate about leveraging my tech skillset to address real-world business challenges.
 
 **Education:** University of Michigan  
-  _Expected Graduation:_ May 2026  
+**Graduated:** May 2026  
 **Hometown:** Boston, MA 🌃  
 **Current Status:** Abroad in Copenhagen! 🏰🚴🏼‍♀️🤩  
 **Hobbies:** Woodworking, Tetris, Snowboarding, Roadtripping  
